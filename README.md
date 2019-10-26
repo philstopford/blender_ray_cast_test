@@ -10,6 +10,6 @@ Team of [Pix3D](http://pix3d.csail.mit.edu/) at MIT reserves the rights of 3D mo
 - [`OpenCV`](https://opencv.org/) 2 or higher
 
 ## Usage
-* Open `test_step1.blend` in Blender Script interface.
+* Open and run `test_step1.blend` in Blender Script interface.
 * Run `test_step2.py`.
 * Output is shown and saved in folder `output`.
